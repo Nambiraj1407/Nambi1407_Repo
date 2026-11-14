@@ -1,0 +1,2 @@
+create table table1 (EmpId int, EmpName varchar(50), EmpSalary decimal(10,2));
+
